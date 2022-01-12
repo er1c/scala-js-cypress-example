@@ -1,5 +1,7 @@
 # Cypress Scala Example
 
+This project uses [ScalablyTyped](https://scalablytyped.org/docs/readme) to create [Scala.js](https://www.scala-js.org/) interfaces for the [Cypress](https://www.cypress.io/) web testing framework.
+
 Example:
 
 ```bash
